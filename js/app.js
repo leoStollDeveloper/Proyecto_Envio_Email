@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', function(){
     }
 
     
+    console.log("el pelado se la come")
+
 
     //Seleccionar los elementos de la interfaz
     const inputEmail = document.querySelector('#email');
